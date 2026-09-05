@@ -501,7 +501,7 @@ h2 {
 
     .QA {
         font-size: 18px;
-        
+
     }
 
     .footer {
@@ -569,7 +569,7 @@ h2 {
 
     nav {
         width: 90%;
-        padding: 20px 20px;
+        padding: 15px;
     }
 
     .option {
@@ -602,7 +602,6 @@ h2 {
 
     .email-box {
         flex-wrap: wrap;
-        
     }
 
     .red-sus {
@@ -612,7 +611,7 @@ h2 {
 
     .email-box input {
         font-size: 18px;
-        padding: 20px 160px 10px 10px;
+        padding: 20px 70px 10px 10px;
     }
 
     .main-container {
@@ -624,7 +623,7 @@ h2 {
         width: 100%;
         height: 180px;
         margin: 0 0 64px;
-        padding: 8px 22px;
+        padding: 8px 2px;
     }
 
     h2 {
@@ -647,9 +646,9 @@ h2 {
     }
 
     .contain-box {
-        width: 90%;
-        height: 220px;
-        padding: 30px 25px;
+        width: 100%;
+        height: 265px;
+        padding: 20px 20px;
     }
 
     .contain-box h3 {
@@ -661,8 +660,8 @@ h2 {
     }
 
     .icon img {
-        margin-top: 40px;
-        padding-left: 240px;
+        margin-top: 20px;
+        padding-left: 150px;
     }
 
     .container-3 h2 {
@@ -676,7 +675,7 @@ h2 {
     }
 
     .footer .footer-email-box input {
-        padding: 14px 180px 11px 10px;
+        padding: 20px 70px 10px 10px;
         margin-right: 5px;
         margin-bottom: 20px;
     }
@@ -689,5 +688,15 @@ h2 {
     .foot-end {
         width: 90%;
         gap: 30px;
+    }
+
+    .black {
+        padding: 2px 5px;
+        margin-left: 40px;
+    }
+
+    .foot-end .black {
+        width: 50%;
+        margin-left: 0px;
     }
 }
